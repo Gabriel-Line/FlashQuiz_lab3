@@ -4,7 +4,7 @@
             "outputFile": "com.example.flashquiz.app-mergeDebugResources-37:/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Bellange\\.gradle\\caches\\transforms-4\\248ab38ce181ac469983774510df8035\\transformed\\appcompat-1.6.1\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "source": "C:\\Users\\aslin\\.gradle\\caches\\transforms-4\\248ab38ce181ac469983774510df8035\\transformed\\appcompat-1.6.1\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

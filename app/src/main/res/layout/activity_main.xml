@@ -4,57 +4,71 @@
     android:id="@+id/main_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFFFFF"
+    android:background="#F5F5F5"
     tools:context=".MainActivity">
 
-    <!-- Flashcard Question Side (Recto) -->
+    <!-- Flashcard Question -->
     <TextView
         android:id="@+id/card_question"
         android:layout_width="match_parent"
         android:layout_height="250dp"
-        android:background="#419EB8"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="80dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:background="#3F51B5"
         android:gravity="center"
         android:padding="20dp"
         android:text="Who is the 44th President of the United States?"
         android:textColor="#FFFFFF"
-        android:textSize="30sp"
+        android:textSize="26sp"
+        android:textStyle="bold"
         android:visibility="visible" />
 
-    <!-- Flashcard Answer Side (Verso) -->
+    <!-- Flashcard Answer -->
     <TextView
         android:id="@+id/card_answer"
         android:layout_width="match_parent"
         android:layout_height="250dp"
-        android:background="#FFFF00"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="80dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:background="#00897B"
         android:gravity="center"
         android:padding="20dp"
         android:text="Barack Obama"
-        android:textColor="#333333"
-        android:textSize="36sp"
+        android:textColor="#FFFFFF"
+        android:textSize="28sp"
+        android:textStyle="bold"
         android:visibility="invisible" />
 
-    <!-- Icône "Suivant" (flèche '>') pour naviguer entre les cartes de la base de données -->
+    <!-- Icône "Suivant" (flèche '>') -->
     <ImageView
         android:id="@+id/btn_next"
-        android:layout_width="50dp"
-        android:layout_height="50dp"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
         android:layout_above="@id/btn_add_card"
         android:layout_alignParentEnd="true"
         android:layout_marginEnd="20dp"
-        android:layout_marginBottom="20dp"
+        android:layout_marginBottom="12dp"
         android:background="?attr/selectableItemBackgroundBorderless"
+        android:scaleType="centerInside"
+        android:padding="12dp"
         android:contentDescription="Carte suivante"
         android:src="@android:drawable/ic_media_play" />
 
     <!-- Bouton "+" pour aller vers l'écran d'ajout -->
     <ImageView
         android:id="@+id/btn_add_card"
-        android:layout_width="60dp"
-        android:layout_height="60dp"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
         android:layout_margin="20dp"
         android:background="?attr/selectableItemBackgroundBorderless"
+        android:scaleType="centerInside"
+        android:padding="12dp"
         android:contentDescription="Ajouter une carte"
         android:src="@android:drawable/ic_input_add" />
 

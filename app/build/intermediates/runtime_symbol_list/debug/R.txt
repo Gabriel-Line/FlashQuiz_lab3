@@ -27,6 +27,7 @@ int anim design_bottom_sheet_slide_out 0x7f010019
 int anim design_snackbar_in 0x7f01001a
 int anim design_snackbar_out 0x7f01001b
 int anim fragment_fast_out_extra_slow_in 0x7f01001c
+int anim left_out 0x7f01002c
 int anim linear_indeterminate_line1_head_interpolator 0x7f01001d
 int anim linear_indeterminate_line1_tail_interpolator 0x7f01001e
 int anim linear_indeterminate_line2_head_interpolator 0x7f01001f
@@ -42,6 +43,7 @@ int anim m3_side_sheet_exit_to_right 0x7f010028
 int anim mtrl_bottom_sheet_slide_in 0x7f010029
 int anim mtrl_bottom_sheet_slide_out 0x7f01002a
 int anim mtrl_card_lowers_interpolator 0x7f01002b
+int anim right_in 0x7f01002d
 int animator design_appbar_state_list_animator 0x7f020000
 int animator design_fab_hide_motion_spec 0x7f020001
 int animator design_fab_show_motion_spec 0x7f020002
@@ -3747,6 +3749,7 @@ int layout select_dialog_multichoice_material 0x7f0b0068
 int layout select_dialog_singlechoice_material 0x7f0b0069
 int layout support_simple_spinner_dropdown_item 0x7f0b006a
 int mipmap ic_launcher 0x7f0d0000
+int mipmap ic_launcher_foreground 0x7f0d0002
 int mipmap ic_launcher_round 0x7f0d0001
 int plurals mtrl_badge_content_description 0x7f0e0000
 int string abc_action_bar_home_description 0x7f0f0000

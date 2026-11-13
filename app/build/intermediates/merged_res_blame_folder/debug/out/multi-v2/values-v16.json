@@ -4,17 +4,7 @@
             "outputFile": "com.example.flashquiz.app-mergeDebugResources-37:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Bellange\\.gradle\\caches\\transforms-4\\dfa2f6324a5ba2c39d7c1a041861baf5\\transformed\\core-1.10.1\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Bellange\\.gradle\\caches\\transforms-4\\248ab38ce181ac469983774510df8035\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\aslin\\.gradle\\caches\\transforms-4\\248ab38ce181ac469983774510df8035\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\aslin\\.gradle\\caches\\transforms-4\\dfa2f6324a5ba2c39d7c1a041861baf5\\transformed\\core-1.10.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

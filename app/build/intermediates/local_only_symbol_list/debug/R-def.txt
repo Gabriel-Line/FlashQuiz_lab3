@@ -1,5 +1,7 @@
 R_DEF: Internal format may change without notice
 local
+anim left_out
+anim right_in
 color black
 color primary_blue
 color primary_dark
@@ -18,6 +20,7 @@ id main_layout
 layout activity_add_card
 layout activity_main
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 string app_name
 style Base.Theme.FlashQuiz

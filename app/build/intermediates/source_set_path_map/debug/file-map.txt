@@ -1,42 +1,42 @@
-com.example.flashquiz.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-0 C:\Users\Bellange\.gradle\caches\transforms-4\04055b00cf3370d878fd147f872107e0\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
-com.example.flashquiz.app-jetified-core-ktx-1.10.1-1 C:\Users\Bellange\.gradle\caches\transforms-4\1412ea0ae47f421ab2b37f2579a02e45\transformed\jetified-core-ktx-1.10.1\res
-com.example.flashquiz.app-core-runtime-2.2.0-2 C:\Users\Bellange\.gradle\caches\transforms-4\163fef7e0f287ed5d348b6ad007397a7\transformed\core-runtime-2.2.0\res
-com.example.flashquiz.app-appcompat-1.6.1-3 C:\Users\Bellange\.gradle\caches\transforms-4\248ab38ce181ac469983774510df8035\transformed\appcompat-1.6.1\res
-com.example.flashquiz.app-jetified-emoji2-1.2.0-4 C:\Users\Bellange\.gradle\caches\transforms-4\32be497605049c214d6c718cd9ef1b69\transformed\jetified-emoji2-1.2.0\res
-com.example.flashquiz.app-room-runtime-2.6.1-5 C:\Users\Bellange\.gradle\caches\transforms-4\46e2d21a241d9a75eb7596646c22a05d\transformed\room-runtime-2.6.1\res
-com.example.flashquiz.app-lifecycle-runtime-2.6.1-6 C:\Users\Bellange\.gradle\caches\transforms-4\4a091e1c74f67bc864b9ee7b71b6b6d0\transformed\lifecycle-runtime-2.6.1\res
-com.example.flashquiz.app-recyclerview-1.1.0-7 C:\Users\Bellange\.gradle\caches\transforms-4\4f73d363a88248ce97995471445dedac\transformed\recyclerview-1.1.0\res
-com.example.flashquiz.app-constraintlayout-2.1.4-8 C:\Users\Bellange\.gradle\caches\transforms-4\521c068c5cf4df1fd179fd45369ea359\transformed\constraintlayout-2.1.4\res
-com.example.flashquiz.app-jetified-appcompat-resources-1.6.1-9 C:\Users\Bellange\.gradle\caches\transforms-4\57fb461f55f2ab53c46960ff0b62adfb\transformed\jetified-appcompat-resources-1.6.1\res
-com.example.flashquiz.app-jetified-room-ktx-2.6.1-10 C:\Users\Bellange\.gradle\caches\transforms-4\5d053ddc8c6af29a3132f3430df353f6\transformed\jetified-room-ktx-2.6.1\res
-com.example.flashquiz.app-fragment-1.3.6-11 C:\Users\Bellange\.gradle\caches\transforms-4\6176b73cb43650c225a0d09265e6445b\transformed\fragment-1.3.6\res
-com.example.flashquiz.app-jetified-lifecycle-viewmodel-ktx-2.6.1-12 C:\Users\Bellange\.gradle\caches\transforms-4\65d75a9f928c06b29d05a1f72203b5d4\transformed\jetified-lifecycle-viewmodel-ktx-2.6.1\res
-com.example.flashquiz.app-lifecycle-viewmodel-2.6.1-13 C:\Users\Bellange\.gradle\caches\transforms-4\78baa0439fce43e37a717a907a1f0525\transformed\lifecycle-viewmodel-2.6.1\res
-com.example.flashquiz.app-jetified-viewpager2-1.0.0-14 C:\Users\Bellange\.gradle\caches\transforms-4\8128346e744c8f13c0a60bd1001a1ce8\transformed\jetified-viewpager2-1.0.0\res
-com.example.flashquiz.app-jetified-emoji2-views-helper-1.2.0-15 C:\Users\Bellange\.gradle\caches\transforms-4\8c8dc9673ddf0ceaf5ccf27f05ee2d43\transformed\jetified-emoji2-views-helper-1.2.0\res
-com.example.flashquiz.app-transition-1.2.0-16 C:\Users\Bellange\.gradle\caches\transforms-4\8effba34aa272123bc4d40008b8297e5\transformed\transition-1.2.0\res
-com.example.flashquiz.app-jetified-lifecycle-process-2.6.1-17 C:\Users\Bellange\.gradle\caches\transforms-4\a32734bb24df068c8a4381a0fc9c6990\transformed\jetified-lifecycle-process-2.6.1\res
-com.example.flashquiz.app-sqlite-framework-2.4.0-18 C:\Users\Bellange\.gradle\caches\transforms-4\a51168b0fc040f9f768f147f702c7038\transformed\sqlite-framework-2.4.0\res
-com.example.flashquiz.app-drawerlayout-1.1.1-19 C:\Users\Bellange\.gradle\caches\transforms-4\a98ba54d1e2a3eaa5fe20773a467be17\transformed\drawerlayout-1.1.1\res
-com.example.flashquiz.app-jetified-savedstate-1.2.1-20 C:\Users\Bellange\.gradle\caches\transforms-4\b0cd3c597a545407ed08c01b09ab485d\transformed\jetified-savedstate-1.2.1\res
-com.example.flashquiz.app-coordinatorlayout-1.1.0-21 C:\Users\Bellange\.gradle\caches\transforms-4\ba744fa5ca101007dbb82139b910bbf3\transformed\coordinatorlayout-1.1.0\res
-com.example.flashquiz.app-lifecycle-livedata-2.6.1-22 C:\Users\Bellange\.gradle\caches\transforms-4\c03bc0e3a5f0a9b1bad17b6071e58a1f\transformed\lifecycle-livedata-2.6.1\res
-com.example.flashquiz.app-jetified-lifecycle-runtime-ktx-2.6.1-23 C:\Users\Bellange\.gradle\caches\transforms-4\c15df27852a401c740d371c582e8be9a\transformed\jetified-lifecycle-runtime-ktx-2.6.1\res
-com.example.flashquiz.app-jetified-annotation-experimental-1.3.0-24 C:\Users\Bellange\.gradle\caches\transforms-4\d3cf7f46705654aaf1d87b2e9bef4cd0\transformed\jetified-annotation-experimental-1.3.0\res
-com.example.flashquiz.app-jetified-startup-runtime-1.1.1-25 C:\Users\Bellange\.gradle\caches\transforms-4\d795961230b2ce98fec15594ba20a503\transformed\jetified-startup-runtime-1.1.1\res
-com.example.flashquiz.app-cardview-1.0.0-26 C:\Users\Bellange\.gradle\caches\transforms-4\dc6f8eb95ff3af9792b38418d098043b\transformed\cardview-1.0.0\res
-com.example.flashquiz.app-core-1.10.1-27 C:\Users\Bellange\.gradle\caches\transforms-4\dfa2f6324a5ba2c39d7c1a041861baf5\transformed\core-1.10.1\res
-com.example.flashquiz.app-jetified-profileinstaller-1.3.0-28 C:\Users\Bellange\.gradle\caches\transforms-4\e1763f2cbe8d460f94635b97bcdb3adc\transformed\jetified-profileinstaller-1.3.0\res
-com.example.flashquiz.app-lifecycle-livedata-core-2.6.1-29 C:\Users\Bellange\.gradle\caches\transforms-4\e9700ff64b26612ba644cc5cd41d4163\transformed\lifecycle-livedata-core-2.6.1\res
-com.example.flashquiz.app-material-1.10.0-30 C:\Users\Bellange\.gradle\caches\transforms-4\f196179fb69fb8be4c9850ded0014ab5\transformed\material-1.10.0\res
-com.example.flashquiz.app-sqlite-2.4.0-31 C:\Users\Bellange\.gradle\caches\transforms-4\fb461a2a3a179b923c31eb69583fa1de\transformed\sqlite-2.4.0\res
-com.example.flashquiz.app-jetified-savedstate-ktx-1.2.1-32 C:\Users\Bellange\.gradle\caches\transforms-4\fb5f35d1ad5bb8d8f81ac0002ae4645c\transformed\jetified-savedstate-ktx-1.2.1\res
-com.example.flashquiz.app-jetified-activity-ktx-1.8.0-33 C:\Users\Bellange\.gradle\caches\transforms-4\fbabbdf433e776f415960fb5b3ac3fab\transformed\jetified-activity-ktx-1.8.0\res
-com.example.flashquiz.app-jetified-activity-1.8.0-34 C:\Users\Bellange\.gradle\caches\transforms-4\feedb07fda61aa8a4020f9aece53d642\transformed\jetified-activity-1.8.0\res
-com.example.flashquiz.app-pngs-35 C:\Users\Bellange\Documents\FlashQuiz_lab 3\app\build\generated\res\pngs\debug
-com.example.flashquiz.app-resValues-36 C:\Users\Bellange\Documents\FlashQuiz_lab 3\app\build\generated\res\resValues\debug
-com.example.flashquiz.app-packageDebugResources-37 C:\Users\Bellange\Documents\FlashQuiz_lab 3\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.flashquiz.app-packageDebugResources-38 C:\Users\Bellange\Documents\FlashQuiz_lab 3\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.flashquiz.app-merged_res-39 C:\Users\Bellange\Documents\FlashQuiz_lab 3\app\build\intermediates\merged_res\debug
-com.example.flashquiz.app-debug-40 C:\Users\Bellange\Documents\FlashQuiz_lab 3\app\src\debug\res
-com.example.flashquiz.app-main-41 C:\Users\Bellange\Documents\FlashQuiz_lab 3\app\src\main\res
+com.example.flashquiz.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-0 C:\Users\aslin\.gradle\caches\transforms-4\04055b00cf3370d878fd147f872107e0\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.flashquiz.app-jetified-core-ktx-1.10.1-1 C:\Users\aslin\.gradle\caches\transforms-4\1412ea0ae47f421ab2b37f2579a02e45\transformed\jetified-core-ktx-1.10.1\res
+com.example.flashquiz.app-core-runtime-2.2.0-2 C:\Users\aslin\.gradle\caches\transforms-4\163fef7e0f287ed5d348b6ad007397a7\transformed\core-runtime-2.2.0\res
+com.example.flashquiz.app-appcompat-1.6.1-3 C:\Users\aslin\.gradle\caches\transforms-4\248ab38ce181ac469983774510df8035\transformed\appcompat-1.6.1\res
+com.example.flashquiz.app-jetified-emoji2-1.2.0-4 C:\Users\aslin\.gradle\caches\transforms-4\32be497605049c214d6c718cd9ef1b69\transformed\jetified-emoji2-1.2.0\res
+com.example.flashquiz.app-room-runtime-2.6.1-5 C:\Users\aslin\.gradle\caches\transforms-4\46e2d21a241d9a75eb7596646c22a05d\transformed\room-runtime-2.6.1\res
+com.example.flashquiz.app-lifecycle-runtime-2.6.1-6 C:\Users\aslin\.gradle\caches\transforms-4\4a091e1c74f67bc864b9ee7b71b6b6d0\transformed\lifecycle-runtime-2.6.1\res
+com.example.flashquiz.app-recyclerview-1.1.0-7 C:\Users\aslin\.gradle\caches\transforms-4\4f73d363a88248ce97995471445dedac\transformed\recyclerview-1.1.0\res
+com.example.flashquiz.app-constraintlayout-2.1.4-8 C:\Users\aslin\.gradle\caches\transforms-4\521c068c5cf4df1fd179fd45369ea359\transformed\constraintlayout-2.1.4\res
+com.example.flashquiz.app-jetified-appcompat-resources-1.6.1-9 C:\Users\aslin\.gradle\caches\transforms-4\57fb461f55f2ab53c46960ff0b62adfb\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.flashquiz.app-jetified-room-ktx-2.6.1-10 C:\Users\aslin\.gradle\caches\transforms-4\5d053ddc8c6af29a3132f3430df353f6\transformed\jetified-room-ktx-2.6.1\res
+com.example.flashquiz.app-fragment-1.3.6-11 C:\Users\aslin\.gradle\caches\transforms-4\6176b73cb43650c225a0d09265e6445b\transformed\fragment-1.3.6\res
+com.example.flashquiz.app-jetified-lifecycle-viewmodel-ktx-2.6.1-12 C:\Users\aslin\.gradle\caches\transforms-4\65d75a9f928c06b29d05a1f72203b5d4\transformed\jetified-lifecycle-viewmodel-ktx-2.6.1\res
+com.example.flashquiz.app-lifecycle-viewmodel-2.6.1-13 C:\Users\aslin\.gradle\caches\transforms-4\78baa0439fce43e37a717a907a1f0525\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.flashquiz.app-jetified-viewpager2-1.0.0-14 C:\Users\aslin\.gradle\caches\transforms-4\8128346e744c8f13c0a60bd1001a1ce8\transformed\jetified-viewpager2-1.0.0\res
+com.example.flashquiz.app-jetified-emoji2-views-helper-1.2.0-15 C:\Users\aslin\.gradle\caches\transforms-4\8c8dc9673ddf0ceaf5ccf27f05ee2d43\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.flashquiz.app-transition-1.2.0-16 C:\Users\aslin\.gradle\caches\transforms-4\8effba34aa272123bc4d40008b8297e5\transformed\transition-1.2.0\res
+com.example.flashquiz.app-jetified-lifecycle-process-2.6.1-17 C:\Users\aslin\.gradle\caches\transforms-4\a32734bb24df068c8a4381a0fc9c6990\transformed\jetified-lifecycle-process-2.6.1\res
+com.example.flashquiz.app-sqlite-framework-2.4.0-18 C:\Users\aslin\.gradle\caches\transforms-4\a51168b0fc040f9f768f147f702c7038\transformed\sqlite-framework-2.4.0\res
+com.example.flashquiz.app-drawerlayout-1.1.1-19 C:\Users\aslin\.gradle\caches\transforms-4\a98ba54d1e2a3eaa5fe20773a467be17\transformed\drawerlayout-1.1.1\res
+com.example.flashquiz.app-jetified-savedstate-1.2.1-20 C:\Users\aslin\.gradle\caches\transforms-4\b0cd3c597a545407ed08c01b09ab485d\transformed\jetified-savedstate-1.2.1\res
+com.example.flashquiz.app-coordinatorlayout-1.1.0-21 C:\Users\aslin\.gradle\caches\transforms-4\ba744fa5ca101007dbb82139b910bbf3\transformed\coordinatorlayout-1.1.0\res
+com.example.flashquiz.app-lifecycle-livedata-2.6.1-22 C:\Users\aslin\.gradle\caches\transforms-4\c03bc0e3a5f0a9b1bad17b6071e58a1f\transformed\lifecycle-livedata-2.6.1\res
+com.example.flashquiz.app-jetified-lifecycle-runtime-ktx-2.6.1-23 C:\Users\aslin\.gradle\caches\transforms-4\c15df27852a401c740d371c582e8be9a\transformed\jetified-lifecycle-runtime-ktx-2.6.1\res
+com.example.flashquiz.app-jetified-annotation-experimental-1.3.0-24 C:\Users\aslin\.gradle\caches\transforms-4\d3cf7f46705654aaf1d87b2e9bef4cd0\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.flashquiz.app-jetified-startup-runtime-1.1.1-25 C:\Users\aslin\.gradle\caches\transforms-4\d795961230b2ce98fec15594ba20a503\transformed\jetified-startup-runtime-1.1.1\res
+com.example.flashquiz.app-cardview-1.0.0-26 C:\Users\aslin\.gradle\caches\transforms-4\dc6f8eb95ff3af9792b38418d098043b\transformed\cardview-1.0.0\res
+com.example.flashquiz.app-core-1.10.1-27 C:\Users\aslin\.gradle\caches\transforms-4\dfa2f6324a5ba2c39d7c1a041861baf5\transformed\core-1.10.1\res
+com.example.flashquiz.app-jetified-profileinstaller-1.3.0-28 C:\Users\aslin\.gradle\caches\transforms-4\e1763f2cbe8d460f94635b97bcdb3adc\transformed\jetified-profileinstaller-1.3.0\res
+com.example.flashquiz.app-lifecycle-livedata-core-2.6.1-29 C:\Users\aslin\.gradle\caches\transforms-4\e9700ff64b26612ba644cc5cd41d4163\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.flashquiz.app-material-1.10.0-30 C:\Users\aslin\.gradle\caches\transforms-4\f196179fb69fb8be4c9850ded0014ab5\transformed\material-1.10.0\res
+com.example.flashquiz.app-sqlite-2.4.0-31 C:\Users\aslin\.gradle\caches\transforms-4\fb461a2a3a179b923c31eb69583fa1de\transformed\sqlite-2.4.0\res
+com.example.flashquiz.app-jetified-savedstate-ktx-1.2.1-32 C:\Users\aslin\.gradle\caches\transforms-4\fb5f35d1ad5bb8d8f81ac0002ae4645c\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.flashquiz.app-jetified-activity-ktx-1.8.0-33 C:\Users\aslin\.gradle\caches\transforms-4\fbabbdf433e776f415960fb5b3ac3fab\transformed\jetified-activity-ktx-1.8.0\res
+com.example.flashquiz.app-jetified-activity-1.8.0-34 C:\Users\aslin\.gradle\caches\transforms-4\feedb07fda61aa8a4020f9aece53d642\transformed\jetified-activity-1.8.0\res
+com.example.flashquiz.app-pngs-35 C:\Users\aslin\Documents\FlashQuiz_lab 3\app\build\generated\res\pngs\debug
+com.example.flashquiz.app-resValues-36 C:\Users\aslin\Documents\FlashQuiz_lab 3\app\build\generated\res\resValues\debug
+com.example.flashquiz.app-packageDebugResources-37 C:\Users\aslin\Documents\FlashQuiz_lab 3\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.flashquiz.app-packageDebugResources-38 C:\Users\aslin\Documents\FlashQuiz_lab 3\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.flashquiz.app-merged_res-39 C:\Users\aslin\Documents\FlashQuiz_lab 3\app\build\intermediates\merged_res\debug
+com.example.flashquiz.app-debug-40 C:\Users\aslin\Documents\FlashQuiz_lab 3\app\src\debug\res
+com.example.flashquiz.app-main-41 C:\Users\aslin\Documents\FlashQuiz_lab 3\app\src\main\res

@@ -4,7 +4,7 @@
             "outputFile": "com.example.flashquiz.app-mergeDebugResources-37:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Bellange\\.gradle\\caches\\transforms-4\\f196179fb69fb8be4c9850ded0014ab5\\transformed\\material-1.10.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\aslin\\.gradle\\caches\\transforms-4\\f196179fb69fb8be4c9850ded0014ab5\\transformed\\material-1.10.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,9,12,15",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Bellange\\.gradle\\caches\\transforms-4\\248ab38ce181ac469983774510df8035\\transformed\\appcompat-1.6.1\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\aslin\\.gradle\\caches\\transforms-4\\248ab38ce181ac469983774510df8035\\transformed\\appcompat-1.6.1\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
